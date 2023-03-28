@@ -1,2 +1,3 @@
 ./node_modules/
 ./.idea/
+./backend_default/node_modules
