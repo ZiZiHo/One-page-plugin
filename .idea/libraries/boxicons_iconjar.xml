@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="boxicons.iconjar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/one-page/assets/vendor/boxicons/iconjar/boxicons.iconjar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
