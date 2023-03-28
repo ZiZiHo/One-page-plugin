@@ -54,7 +54,9 @@ Plugin.create(import.meta.url, (glitter, editMode) => {
                                     <div class="d-flex align-items-center">
                                         <img style="width: 14px;height: 14px;margin-right: 5px;" src="${getRout("../img/phone.svg")}">0918-563-927
                                     </div>
-                                    <div></div>
+                                    <div class="d-flex align-items-center" style="margin-left: 24px;z">
+                                        <img style="width: 14px;height: 14px;margin-right: 5px;" src="${getRout("../img/clock.svg")}">週一至週五 09:00 - 19:00
+                                    </div>
                                     <div class="ms-auto" style="color: #cda45e">
                                         中文 
                                         <span style="color:white;"> / English</span>

@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e7c7184-48fa-4139-8b34-fe8333b89236" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/img/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/dataAPI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/mode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/original/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restaurant/style1.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend_default/dist/tsconfig.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/backend_default/dist/tsconfig.tsbuildinfo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restaurant/style1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/style1.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679990828870</updated>
-      <workItem from="1679990830106" duration="2728000" />
+      <workItem from="1679990830106" duration="3392000" />
     </task>
     <servers />
   </component>
