@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e7c7184-48fa-4139-8b34-fe8333b89236" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/restaurant/assets/vendor/animate.css/animate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_default/dist/tsconfig.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/backend_default/dist/tsconfig.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restaurant/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restaurant/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restaurant/style1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/style1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/restaurant/style1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/restaurant/style1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.tsbuildinfo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jsx.switch.disabled": "true",
     "last_opened_file_path": "C:/Users/User/Documents/GitHub/One-page-plugin/src/restaurant",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,7 +52,7 @@
       <recent name="C:\Users\User\Documents\GitHub\One-page-plugin\src\restaurant" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build:tscAuto">
+  <component name="RunManager" selected="npm.start">
     <configuration name="build:tscAuto" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -67,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build:tscAuto" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build:tscAuto" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679990828870</updated>
       <workItem from="1679990830106" duration="3392000" />
+      <workItem from="1680062868016" duration="20249000" />
     </task>
     <servers />
   </component>
